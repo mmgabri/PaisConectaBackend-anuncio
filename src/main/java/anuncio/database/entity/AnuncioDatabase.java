@@ -28,7 +28,7 @@ public class AnuncioDatabase {
     private String descricao;
     private TipoAnuncioEnum tipo;
     private CategoriaEnum categoria;
-    private String valor;
+    private double valor;
     private String cep;
     private String idUsuario;
     private StatusAnuncioEnum status;

@@ -21,7 +21,7 @@ public class AnuncioDto {
     private String descricao;
     private CategoriaEnum categoria;
     private TipoAnuncioEnum tipo;
-    private String valor;
+    private double valor;
     private String cep;
     private String idUsuario;
 
